@@ -9,8 +9,8 @@ simulates a non-volatile processor environment powered by a renewable source of 
   
 *   **PowerPrep** analyses the CPU behaviour of latency-critical workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes techniques to achieve energy proportionality while maintaining SLO in such workloads. 
     
-*   **Fluid** computing framework utilizes language and runtime extentions that allows expressions
-    in source codes within which dataflow dependencies can be approximated. 
+*   **Fluid** computing framework utilizes language and runtime extensions that allow expressions
+    in source codes within which dataflow dependencies can be approximated. Identified the set of workloads which are amenable for approximation and has improved execution time when running on the framework.
    
 
 ---
