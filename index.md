@@ -1,3 +1,7 @@
+## Applying for PhD for the fall semester 2020. 
+## [Curriculum Vitae](assets/pdfs/resume.pdf)
+
+
 ## Research Summary
 <p align="justify">
 I am involved in Computer Architecture, Software Systems and Approximate Computing research. My research focuses on 
@@ -44,9 +48,6 @@ from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my 
     Gulsum Gudukbay, Sethu Jose, **Vineetha Govindaraj**
     _(Equal Contribution)_
     
-## Curriculum Vitae
-
-### [CV](assets/pdfs/resume.pdf)
 
 ## References
 #### _on Request_
