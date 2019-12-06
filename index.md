@@ -54,24 +54,25 @@ from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my 
 1.  [Dr. Vijaykrishnan Narayanan](https://vijay565.wixsite.com/vijay") <br>
 Distinguished Professor <br> 
 Computer Science and Engineering <br>
-vxn9@psu.edu <br>
+vxn9 [at] psu [dot] edu <br>
 (814) 863-0392 <br>
 
 2.  [Dr. Mahmut Taylan Kandemir](http://www.cse.psu.edu/hpcl/kandemir/) <br>
 Professor <br> 
 Computer Science and Engineering <br>
-mtk2@psu.edu <br>
+mtk2 [at] psu [dot] edu <br>
 (814) 863-4888 <br>
 
 3. [Dr. John (Jack) Sampson](http://www.cse.psu.edu/~jms1257/)<br> 
 Assistant Professor <br> 
 Computer Science and Engineering <br>
-sampson@cse.psu.edu <br>
+sampson [at] cse [dot] psu [dot] edu<br>
 (814) 865-7496 <br>
 
 4. [Dr. Kaushik Vaithiyanathan](https://www.linkedin.com/in/kaushik-vaidyanathan-25925624/) <br>
 Hardware Engineer <br>
 Google <br>
+knv [at] google [dot] com
 
 5. [Dr. Lavanya Subramanian](https://www.linkedin.com/in/lavanya-subramanian-0098338/`) <br>
 Silicon Performance Architect <br>
