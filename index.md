@@ -23,7 +23,7 @@ I have been fortunate to be co-advised by <a href="https://vijay565.wixsite.com/
 Prof. Jack Sampson</a>. Prior to that I was working as a hardware engineer at Samsung Semiconductors India Research and Development 
 from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my undergraduate degree from National
  Institute of Technology Trichy, India, where I was majoring in Electronics and Communication Engineering. 
- I spent the first eighteen years of my life in the beautiful city of Madras (Chennai) in the southern part of India.
+ I spend a major part of my lifetime growing up in the vibrant city of Madras (Chennai) 
 </p>
 
 
