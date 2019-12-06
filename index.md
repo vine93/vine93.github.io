@@ -1,7 +1,7 @@
 ## Research Summary
 <p align="justify">
 I am involved in Computer Architecture, Software Systems and Approximate Computing research. My research focuses on 
-building power and performance effecient datacenter infrastructure. I have been involved in the following projects as a Graduate Student.
+building power and performance effecient datacenter infrastructure.These are the projects I have undertaken in my Master's program.
 </p>
 
 *   **ConfigNVPSim** is a cycle accurate multicore simulator based out of gem5 simulation framework. ConfigNVPSim
