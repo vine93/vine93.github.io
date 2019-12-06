@@ -31,11 +31,11 @@ from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my 
 ### (Under Submission)
 
 1.  PowerPrep: A power management proposal for user-facing datacenter workloads
-    **Vineetha Govindaraj**, Ram Srivatsa Kannan, Sumitha George, Mahmut Taylan Kandemir, 
+   <br> **Vineetha Govindaraj**, Ram Srivatsa Kannan, Sumitha George, Mahmut Taylan Kandemir, 
     Jack Sampson, Vijaykrishnan Narayanan <br>
     _(Emailed upon request)_
 2.  Fluid: A Framework for Approximate Concurrency via Controlled Dependency Relaxation
-    Huaipan Jiang, Haibo Zhang, Xulong Tang, **Vineetha Govindaraj**, Jack Sampson, Mahmut Taylan Kandemir, Danfeng Zhang <br>
+    <br>Huaipan Jiang, Haibo Zhang, Xulong Tang, **Vineetha Govindaraj**, Jack Sampson, Mahmut Taylan Kandemir, Danfeng Zhang <br>
     _(Emailed upon request)_
     
 ### (White Papers)
