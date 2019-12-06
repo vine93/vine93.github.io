@@ -22,8 +22,9 @@ levels present in the system.
 ## Brief Bio
 <p align="justify">
 I am a Masters Student of Computer Science and Engineering Department at the Pennsylvania State University. 
-I have been fortunate to be co-advised by Prof. Vijaykrishnan Narayanan, Prof. Mahmut Kandameir and Prof. Jack Sampson.
-Prior to that I was working as a hardware engineer at Samsung Semiconductors India Research and Development 
+I have been fortunate to be co-advised by <a href="https://vijay565.wixsite.com/vijay">Prof. Vijaykrishnan Narayanan</a>, 
+<a href="http://www.cse.psu.edu/hpcl/kandemir/">Prof. Mahmut Kandameir</a> and <a href="http://www.cse.psu.edu/~jms1257/">
+Prof. Jack Sampson</a>. Prior to that I was working as a hardware engineer at Samsung Semiconductors India Research and Development 
 from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my undergraduate degree from National
  Institute of Technology Trichy, India, where I was majoring in Electronics and Communication Engineering. 
  I spent the first eighteen years of my life in the beautiful city of Madras (Chennai) in the southern part of India.
@@ -35,15 +36,49 @@ from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my 
 
 1.  PowerPrep: A power management proposal for user-facing datacenter workloads
     **Vineetha Govindaraj**, Ram Srivatsa Kannan, Sumitha George, Mahmut Taylan Kandemir, 
-    Jack Sampson, Vijaykrishnan Narayanan
+    Jack Sampson, Vijaykrishnan Narayanan <br>
+    _(Emailed upon request)_
 2.  Fluid: A Framework for Approximate Concurrency via Controlled Dependency Relaxation
-    Huaipan Jiang, Haibo Zhang, Xulong Tang, **Vineetha Govindaraj**, Jack Sampson, Mahmut Taylan Kandemir, Danfeng Zhang
+    Huaipan Jiang, Haibo Zhang, Xulong Tang, **Vineetha Govindaraj**, Jack Sampson, Mahmut Taylan Kandemir, Danfeng Zhang <br>
     _(Emailed upon request)_
     
 ### (White Papers)
 
-3.  ConfigNVPSim: GEM5 Based Configurable NVP [pdf]
+3.  ConfigNVPSim: GEM5 Based Configurable NVP [[pdf]](assets/pdfs/nvpSim.pdf)<br>
     Gulsum Gudukbay, Sethu Jose, **Vineetha Govindaraj**
     _(Equal Contribution)_
     
+## Curriculum Vitae
+
+### [CV](assets/pdfs/resume.pdf)
+
+## References
+#### _on Request_
+
+1.  [Dr. Vijaykrishnan Narayanan](https://vijay565.wixsite.com/vijay") <br>
+Distinguished Professor <br> 
+Computer Science and Engineering <br>
+vxn9@psu.edu <br>
+(814) 863-0392 <br>
+
+2.  [Dr. Mahmut Taylan Kandemir](http://www.cse.psu.edu/hpcl/kandemir/) <br>
+Professor <br> 
+Computer Science and Engineering <br>
+mtk2@psu.edu <br>
+(814) 863-4888 <br>
+
+3. [Dr. John (Jack) Sampson](http://www.cse.psu.edu/~jms1257/)
+Associate Professor <br> 
+Computer Science and Engineering <br>
+sampson@cse.psu.edu <br>
+(814) 865-7496 <br>
+
+4. [Dr. Kaushik Vaithiyanathan](https://www.linkedin.com/in/kaushik-vaidyanathan-25925624/) <br>
+Hardware Engineer <br>
+Google <br>
+
+5. [Dr. Lavanya Subramanian](https://www.linkedin.com/in/lavanya-subramanian-0098338/`) <br>
+Silicon Performance Architect <br>
+Facebook <br>
+
 
