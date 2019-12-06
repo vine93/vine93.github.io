@@ -63,7 +63,7 @@ Computer Science and Engineering <br>
 mtk2@psu.edu <br>
 (814) 863-4888 <br>
 
-3. [Dr. John (Jack) Sampson](http://www.cse.psu.edu/~jms1257/)
+3. [Dr. John (Jack) Sampson](http://www.cse.psu.edu/~jms1257/)<br> 
 Assistant Professor <br> 
 Computer Science and Engineering <br>
 sampson@cse.psu.edu <br>
