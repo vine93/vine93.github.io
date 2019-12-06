@@ -4,18 +4,14 @@ I am involved in Computer Architecture, Software Systems and Approximate Computi
 building power and performance effecient datacenter infrastructure.These are the projects I have undertaken in my Master's program.
 </p>
 
-*   **ConfigNVPSim** is a cycle accurate multicore simulator based out of gem5 simulation framework. ConfigNVPSim
-simulates a non-volatile processor environment powered by renewable source of energy. In this context, ConfigNVPSim 
-simulates functionality of non-volatile processors by throttling the progress of applications based on the energy 
-levels present in the system. 
+*   **ConfigNVPSim** is a cycle-accurate multicore simulator-based out of gem5 simulation framework. ConfigNVPSim
+simulates a non-volatile processor environment powered by a renewable source of energy. In this context, ConfigNVPSim simulates the functionality of non-volatile processors by throttling the progress of applications based on the energy levels present in the system.
   
-*   **PowerPrep** is a datacenter power management runtime system that aggressively enables cpu cores to enter deep 
-    sleep states while executing datacenter application. PowerPrep tries to reduce datacenter power consumption without 
-    affecting application defined Service Level Objectives. 
+*   **PowerPrep** analyses the CPU behaviour of latency-critical workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes techniques to achieve energy proportionality while maintaining SLO in such workloads. 
     
 *   **Fluid** computing framework utilizes language and runtime extentions that allows expressions
     in source codes within which dataflow dependencies can be approximated. 
-    Fluid utilizes 
+   
 
 ---
 
