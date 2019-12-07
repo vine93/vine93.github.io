@@ -4,8 +4,7 @@
 
 ## Research Summary
 <p align="justify">
-I am involved in Computer Architecture, Software Systems and Approximate Computing research. My research focuses on 
-building power and performance effecient datacenter infrastructure.These are the projects I have undertaken in my Master's program.
+I am involved in Computer Architecture and Software Systems research. My current research focuses on building power and performance effecient datacenter infrastructure.Listed below are some of the projects I undertook while at Pennsylvania State University.
 </p>
 
 *   **ConfigNVPSim** is a cycle-accurate multicore simulator-based out of gem5 simulation framework. ConfigNVPSim
@@ -22,12 +21,10 @@ simulates a non-volatile processor environment powered by a renewable source of 
 ## Brief Bio
 <p align="justify">
 I am a Masters Student of Computer Science and Engineering Department at the Pennsylvania State University. 
-I have been fortunate to be co-advised by <a href="https://vijay565.wixsite.com/vijay">Prof. Vijaykrishnan Narayanan</a>, 
+I am fortunate to be co-advised by <a href="https://vijay565.wixsite.com/vijay">Prof. Vijaykrishnan Narayanan</a>, 
 <a href="http://www.cse.psu.edu/hpcl/kandemir/">Prof. Mahmut Kandameir</a> and <a href="http://www.cse.psu.edu/~jms1257/">
-Prof. Jack Sampson</a>. Prior to that I was working as a hardware engineer at Samsung Semiconductors India Research and Development 
-from 2016-2018 and Freescale Semiconductors India from 2015-2016. I obtained my undergraduate degree from National
- Institute of Technology Trichy, India, where I was majoring in Electronics and Communication Engineering. 
- I spend a major part of my lifetime growing up in the vibrant city of Madras (Chennai) 
+Prof. Jack Sampson</a>. Prior to that I was working as a senior hardware engineer at Samsung Semiconductors India as a part of the Non Volatile Memory express(NVMe) design and verification team from 2016-2018.I had a brief tenure at Freescale Semiconductors India from 2015-2016 where I worked as a SoC verification engineer. I obtained my undergraduate degree from National Institute of Technology Trichy, India, wwith a major in Electronics and Communication Engineering. 
+I was born and bred in the vibrant city of Madras(Chennai).
 </p>
 
 
