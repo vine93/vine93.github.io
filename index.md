@@ -1,5 +1,6 @@
 ## Applying for PhD for the fall semester 2020. 
 ## [Curriculum Vitae](assets/pdfs/resume.pdf)
+## [Research Statement](assets/pdfs/Vineetha_Sop.pdf)
 
 
 ## Research Summary
