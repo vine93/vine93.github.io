@@ -11,7 +11,7 @@ I am involved in Computer Architecture and Software Systems research. My current
 *   **ConfigNVPSim** is a cycle-accurate multicore simulator-based out of gem5 simulation framework. ConfigNVPSim
 simulates a non-volatile processor environment powered by a renewable source of energy. In this context, ConfigNVPSim simulates the functionality of non-volatile processors by throttling the progress of applications based on the energy levels present in the system.
   
-*   **PowerPrep** analyses the CPU behaviour of latency-critical workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes techniques to achieve energy proportionality while maintaining SLO in such workloads. 
+*   **PowerPrep** analyses the CPU behaviour of latency-critical workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes how emerging technologies like NVSRAM can be used to achieve energy proportionality while maintaining SLO in such workloads. 
     
 *   **Fluid** computing framework utilizes language and runtime extensions that allow expressions
     in source codes within which dataflow dependencies can be approximated. Identified the set of workloads which are amenable for approximation and has improved execution time when running on the framework.
