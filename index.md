@@ -50,7 +50,7 @@ I was born and bred in the vibrant city of Madras(Chennai).
 ## References
 #### _on Request_
 
-1.  [Dr. Vijaykrishnan Narayanan](https://vijay565.wixsite.com/vijay") <br>
+1.  [Dr. Vijaykrishnan Narayanan](https://vijay565.wixsite.com/vijay) <br>
 Distinguished Professor <br> 
 Computer Science and Engineering <br>
 vxn9 [at] psu [dot] edu <br>
