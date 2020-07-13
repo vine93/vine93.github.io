@@ -5,16 +5,17 @@
 
 ## Research Summary
 <p align="justify">
-I am involved in Computer Architecture and Software Systems research. My current research focuses on building power and performance effecient datacenter infrastructure.Listed below are some of the projects I undertook while at Pennsylvania State University.
+I am broadly interested in working on research problems in hardware/software interface, operating systems and distributed systems. My current research focuses on building power and performance effecient datacenter infrastructure.Listed below are some of the projects I undertook while at Pennsylvania State University.
 </p>
 
 *   **ConfigNVPSim** is a cycle-accurate multicore simulator-based out of gem5 simulation framework. ConfigNVPSim
-simulates a non-volatile processor environment powered by a renewable source of energy. In this context, ConfigNVPSim simulates the functionality of non-volatile processors by throttling the progress of applications based on the energy levels present in the system.
-  
-*   **PowerPrep** analyses the CPU behaviour of latency-critical workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes how emerging technologies  can be used to achieve energy proportionality while maintaining SLO in such workloads. 
-    
+simulates a non-volatile processor environment powered by a renewable source of energy. The progress of the application running on ConfigNVPSim is throttled by the energy level harnessed by the system.
+
+
+*   **PowerPrep** analyses the CPU behaviour of latency-critical datacenter workloads when deep sleep states are enabled.PowerPrep evaluates different scenarios under which enabling a deep sleep state violates SLO and proposes how emerging technologies  can be leveraged to achieve energy proportionality in datacenter.
+
 *   **Fluid** computing framework utilizes language and runtime extensions that allow expressions
-    in source codes within which dataflow dependencies can be approximated. Identified the set of workloads which are amenable for approximation and has improved execution time when running on the framework.
+    in source codes within which dataflow dependencies can be relaxed. Identified the set of workloads which are amenable for approximation and has an improved execution time when running on the framework.
    
 
 ---
@@ -25,7 +26,7 @@ I am a Masters Student of Computer Science and Engineering Department at the Pen
 I am fortunate to be co-advised by <a href="https://vijay565.wixsite.com/vijay">Prof. Vijaykrishnan Narayanan</a>, 
 <a href="http://www.cse.psu.edu/hpcl/kandemir/">Prof. Mahmut Kandameir</a> and <a href="http://www.cse.psu.edu/~jms1257/">
 Prof. Jack Sampson</a>. Prior to that I was working as a senior hardware engineer at Samsung Semiconductors India as a part of the Non Volatile Memory express(NVMe) design and verification team from 2016-2018.I had a brief tenure at Freescale Semiconductors India from 2015-2016 where I worked as a SoC verification engineer. I obtained my undergraduate degree from National Institute of Technology Trichy, India, wwith a major in Electronics and Communication Engineering. 
-I was born and bred in the vibrant city of Madras(Chennai).
+
 </p>
 
 
