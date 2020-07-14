@@ -5,7 +5,7 @@
 
 ## Research Summary
 <p align="justify">
-I am broadly interested in working on research problems in hardware/software interface, operating systems and distributed systems. My current research focuses on building power and performance effecient datacenter infrastructure.Listed below are some of the projects I undertook while at Pennsylvania State University.
+I am broadly interested in working on research problems in hardware/software interface, operating systems and programming Languages. My current research focuses on building power and performance effecient datacenter infrastructure.Listed below are some of the projects I undertook while at Pennsylvania State University.
 </p>
 
 *   **ConfigNVPSim** is a cycle-accurate multicore simulator-based out of gem5 simulation framework. ConfigNVPSim
