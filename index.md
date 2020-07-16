@@ -34,7 +34,7 @@ Prof. Jack Sampson</a>. Prior to that I was working as a senior hardware enginee
 ### (Under Submission)
 
 1.  PowerPrep: A power management proposal for user-facing datacenter workloads
-   <br> **Vineetha Govindaraj**, Ram Srivatsa Kannan, Sumitha George, Mahmut Taylan Kandemir, 
+   <br> **Vineetha Govindaraj**, Sumitha George, Mahmut Taylan Kandemir, 
     Jack Sampson, Vijaykrishnan Narayanan <br>
     _(Emailed upon request)_
 2.  Fluid: A Framework for Approximate Concurrency via Controlled Dependency Relaxation
